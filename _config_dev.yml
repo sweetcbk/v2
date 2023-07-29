@@ -1,26 +1,26 @@
 # Site settings
-name: Brittany Chiang
-title: Brittany Chiang | Front End Software Engineer
+name: Chandra Bhushan
+title: Chandra Bhushan| Front End Software Engineer
 description: Design-minded, detail oriented software engineer passionate about combining beautiful code with beautiful design.
-url: http://brittanychiang.com/
+url: https://chandrabhushan.in/
 baseurl: ""
-email: brittany.chiang@gmail.com
+email: info@chandrabhushan.in
 cover: http://brittanychiang.com/v2/img/og.jpg
 logo: http://brittanychiang.com/v2/img/logo-black.png
 resume: http://brittanychiang.com/v2/resume.pdf
 social:
   - title: email
-    url: mailto:brittany.chiang@gmail.com
+    url: mailto:info@chandrabhushan.in
   - title: twitter
-    url: https://twitter.com/bchiang7
+    url: https://twitter.com/sweetcbk
   - title: instagram
-    url: https://instagram.com/bchiang7
+    url: https://instagram.com/sweetcbk
   - title: codepen
-    url: http://codepen.io/bchiang7
+    url: http://codepen.io/sweetcbk
   - title: github
-    url: https://github.com/bchiang7
+    url: https://github.com/sweetcbk
   - title: linkedin
-    url: https://www.linkedin.com/in/bchiang7
+    url: https://www.linkedin.com/in/sweetcbk
 
 # Build settings
 markdown: kramdown

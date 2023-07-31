@@ -7,7 +7,7 @@ baseurl: ""
 email: info@chandrabhushan.in
 cover: http://brittanychiang.com/v2/img/og.jpg
 logo: http://brittanychiang.com/v2/img/logo-black.png
-resume: http://brittanychiang.com/v2/resume.pdf
+resume: /resume.pdf
 social:
   - title: email
     url: mailto:info@chandrabhushan.in

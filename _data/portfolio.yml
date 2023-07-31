@@ -35,7 +35,7 @@
   demo: http://webdevspring2016-chiangbrittany.rhcloud.com/project/client/#/login
   code: https://github.com/bchiang7/WebDevSpring2016/tree/master/public/project
   description: Mehndi Design  your ultimate source of inspiration and trends in the world of Mehndi! Explore the captivating artistry of Mehndi designs and enhance your skills with our step-by-step tutorials and expert tips. Let's celebrate the beauty of Mehndi together.
-  img: courseSource
+  img: coursesource
   used:
     - thing: HTML
     - thing: CSS
